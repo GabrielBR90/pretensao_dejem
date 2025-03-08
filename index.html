@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendário Interativo com Horários</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .controls {
+            margin-bottom: 20px;
+        }
+
+        .calendar-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        table {
+            width: 80%;
+            max-width: 600px;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+            vertical-align: top;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        .horarios {
+            font-size: 0.8em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Calendário Interativo com Horários</h2>
+
+    <div class="controls">
+        <label for="month">Mês:</label>
+        <select id="month">
+            <option value="1">Janeiro</option>
+            <option value="2">Fevereiro</option>
+            <option value="3">Março</option>
+            <option value="4">Abril</option>
+            <option value="5">Maio</option>
+            <option value="6">Junho</option>
+            <option value="7">Julho</option>
+            <option value="8">Agosto</option>
+            <option value="9">Setembro</option>
+            <option value="10">Outubro</option>
+            <option value="11">Novembro</option>
+            <option value="12">Dezembro</option>
+        </select>
+
+        <label for="year">Ano:</label>
+        <select id="year"></select>
+
+        <button onclick="generateCalendar()">Gerar Calendário</button>
+    </div>
+
+    <div class="calendar-container">
+        <table id="calendar">
+            <thead>
+                <tr>
+                    <th>Dom</th>
+                    <th>Seg</th>
+                    <th>Ter</th>
+                    <th>Qua</th>
+                    <th>Qui</th>
+                    <th>Sex</th>
+                    <th>Sab</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script>
+        // Populando o seletor de anos dinamicamente
+        const yearSelect = document.getElementById('year');
+        const currentYear = new Date().getFullYear();
+        for (let i = currentYear - 10; i <= currentYear + 10; i++) {
+            let option = document.createElement('option');
+            option.value = i;
+            option.textContent = i;
+            yearSelect.appendChild(option);
+        }
+        yearSelect.value = currentYear; // Define o ano atual como padrão
+
+        let horariosDisponiveis = {};
+
+        // Função para carregar o arquivo TXT automaticamente
+        async function loadTXTFile() {
+            try {
+                const response = await fetch('http://localhost:8000/horarios.txt'); // Nome do arquivo no servidor
+                const data = await response.text();
+                
+                const linhas = data.split("\n");
+                horariosDisponiveis = {};
+
+                for (let i = 0; i < linhas.length; i++) { // Lendo linha por linha
+                    let colunas = linhas[i].split(",");
+                    let dia = parseInt(colunas[0]);  // Dia do mês (Coluna 1)
+                    let mes = parseInt(colunas[1]);  // Número do mês (Coluna 2)
+                    let horario = colunas[2]?.trim(); // Horário disponível (Coluna 3)
+
+                    if (dia && mes && horario) {
+                        if (!horariosDisponiveis[mes]) {
+                            horariosDisponiveis[mes] = {};
+                        }
+                        if (!horariosDisponiveis[mes][dia]) {
+                            horariosDisponiveis[mes][dia] = [];
+                        }
+                        horariosDisponiveis[mes][dia].push(horario);
+                    }
+                }
+
+                console.log("Arquivo TXT carregado com sucesso.", horariosDisponiveis);
+            } catch (error) {
+                console.error("Erro ao carregar o arquivo TXT:", error);
+            }
+        }
+
+        // Chama a função para carregar o TXT automaticamente ao abrir a página
+        window.onload = loadTXTFile;
+
+        function generateCalendar() {
+            const month = parseInt(document.getElementById('month').value);
+            const year = parseInt(document.getElementById('year').value);
+            const firstDay = new Date(year, month - 1, 1).getDay();
+            const lastDate = new Date(year, month, 0).getDate();
+
+            let calendarBody = document.querySelector("#calendar tbody");
+            calendarBody.innerHTML = "";
+
+            let row = document.createElement("tr");
+            let dayCounter = 1;
+
+            // Preenche os espaços vazios antes do primeiro dia do mês
+            for (let i = 0; i < firstDay; i++) {
+                let emptyCell = document.createElement("td");
+                row.appendChild(emptyCell);
+            }
+
+            // Preenche os dias do mês
+            for (let i = firstDay; i < 7; i++) {
+                let cell = document.createElement("td");
+                cell.innerHTML = `<strong>${dayCounter}</strong>`;
+
+                // Adiciona os horários do TXT, se existirem
+                if (horariosDisponiveis[month] && horariosDisponiveis[month][dayCounter]) {
+                    cell.innerHTML += `<div class="horarios">${horariosDisponiveis[month][dayCounter].join('<br>')}</div>`;
+                }
+
+                row.appendChild(cell);
+                dayCounter++;
+            }
+            calendarBody.appendChild(row);
+
+            // Adiciona as próximas semanas
+            while (dayCounter <= lastDate) {
+                row = document.createElement("tr");
+                for (let i = 0; i < 7; i++) {
+                    if (dayCounter > lastDate) break;
+                    let cell = document.createElement("td");
+                    cell.innerHTML = `<strong>${dayCounter}</strong>`;
+
+                    // Adiciona os horários do TXT
+                    if (horariosDisponiveis[month] && horariosDisponiveis[month][dayCounter]) {
+                        cell.innerHTML += `<div class="horarios">${horariosDisponiveis[month][dayCounter].join('<br>')}</div>`;
+                    }
+
+                    row.appendChild(cell);
+                    dayCounter++;
+                }
+                calendarBody.appendChild(row);
+            }
+        }
+    </script>
+
+</body>
+</html>
