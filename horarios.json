@@ -1,0 +1,3867 @@
+{
+"horarios":[
+ {
+  "Data": 1,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": "Março"
+ },
+ {
+  "Data": 1,
+  "Dia": "sáb",
+  "Horário": "18h05",
+  "Mês": "Março"
+ },
+ {
+  "Data": 1,
+  "Dia": "sáb",
+  "Horário": "21h00",
+  "Mês": 3
+ },
+ {
+  "Data": 2,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 2,
+  "Dia": "dom",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 3,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 3,
+  "Dia": "seg",
+  "Horário": "18h06",
+  "Mês": 3
+ },
+ {
+  "Data": 3,
+  "Dia": "seg",
+  "Horário": "21h00",
+  "Mês": 3
+ },
+ {
+  "Data": 4,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 4,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 4,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 5,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 5,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 5,
+  "Dia": "qua",
+  "Horário": "18h05",
+  "Mês": 3
+ },
+ {
+  "Data": 6,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 6,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 6,
+  "Dia": "qui",
+  "Horário": "18h05",
+  "Mês": 3
+ },
+ {
+  "Data": 7,
+  "Dia": "sex",
+  "Horário": "18h05",
+  "Mês": 3
+ },
+ {
+  "Data": 8,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 8,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 9,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 10,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 10,
+  "Dia": "seg",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 10,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 11,
+  "Dia": "ter",
+  "Horário": "18h07",
+  "Mês": 3
+ },
+ {
+  "Data": 11,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 11,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 12,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 12,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 12,
+  "Dia": "qua",
+  "Horário": "18h05",
+  "Mês": 3
+ },
+ {
+  "Data": 13,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 13,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 13,
+  "Dia": "qui",
+  "Horário": "18h05",
+  "Mês": 3
+ },
+ {
+  "Data": 14,
+  "Dia": "sex",
+  "Horário": "18h05",
+  "Mês": 3
+ },
+ {
+  "Data": 15,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 15,
+  "Dia": "sáb",
+  "Horário": "18h05",
+  "Mês": 3
+ },
+ {
+  "Data": 16,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 17,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 17,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 17,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 18,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 18,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 18,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 19,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 19,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 19,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 20,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 20,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 20,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 21,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 22,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 22,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 23,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 24,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 24,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 24,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 25,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 25,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 25,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 26,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 26,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 26,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 27,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 27,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 27,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 28,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 29,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 29,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 30,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 3
+ },
+ {
+  "Data": 31,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 3
+ },
+ {
+  "Data": 31,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 3
+ },
+ {
+  "Data": 31,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 3
+ },
+ {
+  "Data": 1,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 1,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 1,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 2,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 2,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 2,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 3,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 3,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 3,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 4,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 5,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 5,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 6,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 7,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 7,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 7,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 8,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 8,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 8,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 9,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 9,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 9,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 10,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 10,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 10,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 11,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 12,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 12,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 13,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 14,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 14,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 14,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 15,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 15,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 15,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 16,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 16,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 16,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 17,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 17,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 17,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 18,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 19,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 19,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 20,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 21,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 21,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 21,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 22,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 22,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 22,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 23,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 23,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 23,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 24,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 24,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 24,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 25,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 26,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 26,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 27,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 4
+ },
+ {
+  "Data": 28,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 28,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 28,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 29,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 29,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 29,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 30,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 4
+ },
+ {
+  "Data": 30,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 4
+ },
+ {
+  "Data": 30,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 4
+ },
+ {
+  "Data": 1,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 1,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 1,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 2,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 3,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 3,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 4,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 5,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 5,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 5,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 6,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 6,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 6,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 7,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 7,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 7,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 8,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 8,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 8,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 9,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 10,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 10,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 11,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 12,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 12,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 12,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 13,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 13,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 13,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 14,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 14,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 14,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 15,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 15,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 15,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 16,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 17,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 17,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 18,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 19,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 19,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 19,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 20,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 20,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 20,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 21,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 21,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 21,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 22,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 22,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 22,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 23,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 24,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 24,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 25,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 26,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 26,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 26,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 27,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 27,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 27,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 28,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 28,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 28,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 29,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 5
+ },
+ {
+  "Data": 29,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 5
+ },
+ {
+  "Data": 29,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 30,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 31,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 5
+ },
+ {
+  "Data": 31,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 5
+ },
+ {
+  "Data": 1,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 2,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 2,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 2,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 3,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 3,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 3,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 4,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 4,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 4,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 5,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 5,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 5,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 6,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 7,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 7,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 8,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 9,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 9,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 9,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 10,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 10,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 10,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 11,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 11,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 11,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 12,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 12,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 12,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 13,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 14,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 14,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 15,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 16,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 16,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 16,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 17,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 17,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 17,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 18,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 18,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 18,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 19,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 19,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 19,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 20,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 21,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 21,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 22,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 23,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 23,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 23,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 24,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 24,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 24,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 25,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 25,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 25,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 26,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 26,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 26,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 27,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 28,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 28,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 29,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 6
+ },
+ {
+  "Data": 30,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 6
+ },
+ {
+  "Data": 30,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 6
+ },
+ {
+  "Data": 30,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 6
+ },
+ {
+  "Data": 1,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 1,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 1,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 2,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 2,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 2,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 3,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 3,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 3,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 4,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 5,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 5,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 6,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 7,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 7,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 7,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 8,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 8,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 8,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 9,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 9,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 9,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 10,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 10,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 10,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 11,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 12,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 12,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 13,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 14,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 14,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 14,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 15,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 15,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 15,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 16,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 16,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 16,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 17,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 17,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 17,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 18,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 19,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 19,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 20,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 21,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 21,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 21,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 22,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 22,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 22,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 23,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 23,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 23,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 24,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 24,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 24,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 25,
+  "Dia": "sex",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 26,
+  "Dia": "sáb",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 26,
+  "Dia": "sáb",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 27,
+  "Dia": "dom",
+  "Horário": "10h00",
+  "Mês": 7
+ },
+ {
+  "Data": 28,
+  "Dia": "seg",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 28,
+  "Dia": "seg",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 28,
+  "Dia": "seg",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 29,
+  "Dia": "ter",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 29,
+  "Dia": "ter",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 29,
+  "Dia": "ter",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 30,
+  "Dia": "qua",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 30,
+  "Dia": "qua",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 30,
+  "Dia": "qua",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 31,
+  "Dia": "qui",
+  "Horário": "06h00",
+  "Mês": 7
+ },
+ {
+  "Data": 31,
+  "Dia": "qui",
+  "Horário": "15h00",
+  "Mês": 7
+ },
+ {
+  "Data": 31,
+  "Dia": "qui",
+  "Horário": "18h00",
+  "Mês": 7
+ },
+ {
+  "Data": 1,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 31,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 31,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 1,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 2,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 3,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 4,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 5,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 6,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 7,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 8,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 9,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 10,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 11,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 12,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 13,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 14,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 15,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 16,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 17,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 18,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 19,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 20,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 21,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 22,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 23,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 24,
+  "Dia": "qua",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "qui",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "qui",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 25,
+  "Dia": "qui",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 26,
+  "Dia": "sex",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "sáb",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 27,
+  "Dia": "sáb",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 28,
+  "Dia": "dom",
+  "Horário": "10h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "seg",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "seg",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 29,
+  "Dia": "seg",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "ter",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "ter",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 30,
+  "Dia": "ter",
+  "Horário": "18h00"
+ },
+ {
+  "Data": 31,
+  "Dia": "qua",
+  "Horário": "06h00"
+ },
+ {
+  "Data": 31,
+  "Dia": "qua",
+  "Horário": "15h00"
+ },
+ {
+  "Data": 31,
+  "Dia": "qua",
+  "Horário": "18h00"
+ }
+]
+}
