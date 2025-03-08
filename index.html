@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calendário Interativo com Horários</title>
+    <title>Calendário com Horários Automáticos</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.4/xlsx.full.min.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +48,7 @@
 </head>
 <body>
 
-    <h2>Calendário Interativo com Horários</h2>
+    <h2>Calendário com Horários Automáticos</h2>
 
     <div class="controls">
         <label for="month">Mês:</label>
@@ -90,6 +91,9 @@
     </div>
 
     <script>
+        // URL do arquivo Excel hospedado no GitHub
+        const EXCEL_URL = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/horarios.xlsx"; 
+
         // Populando o seletor de anos dinamicamente
         const yearSelect = document.getElementById('year');
         const currentYear = new Date().getFullYear();
@@ -103,40 +107,37 @@
 
         let horariosDisponiveis = {};
 
-        // Função para carregar o arquivo TXT automaticamente
-        async function loadTXTFile() {
-            try {
-                const response = await fetch('http://localhost:8000/horarios.txt'); // Nome do arquivo no servidor
-                const data = await response.text();
-                
-                const linhas = data.split("\n");
-                horariosDisponiveis = {};
+        function fetchAndProcessExcel() {
+            fetch(EXCEL_URL)
+                .then(response => response.arrayBuffer())
+                .then(data => {
+                    const workbook = XLSX.read(new Uint8Array(data), { type: "array" });
+                    const sheetName = workbook.SheetNames[0];
+                    const sheet = workbook.Sheets[sheetName];
+                    const jsonData = XLSX.utils.sheet_to_json(sheet, { header: 1 });
 
-                for (let i = 0; i < linhas.length; i++) { // Lendo linha por linha
-                    let colunas = linhas[i].split(",");
-                    let dia = parseInt(colunas[0]);  // Dia do mês (Coluna 1)
-                    let mes = parseInt(colunas[1]);  // Número do mês (Coluna 2)
-                    let horario = colunas[2]?.trim(); // Horário disponível (Coluna 3)
+                    horariosDisponiveis = {};
 
-                    if (dia && mes && horario) {
-                        if (!horariosDisponiveis[mes]) {
-                            horariosDisponiveis[mes] = {};
+                    for (let i = 1; i < jsonData.length; i++) { // Começa da linha 2
+                        let dia = jsonData[i][0];  // Coluna A - Dia do mês
+                        let horario = jsonData[i][2]; // Coluna C - Horário disponível
+                        let mes = jsonData[i][3];  // Coluna D - Mês do evento
+
+                        if (dia && horario && mes) {
+                            if (!horariosDisponiveis[mes]) {
+                                horariosDisponiveis[mes] = {};
+                            }
+                            if (!horariosDisponiveis[mes][dia]) {
+                                horariosDisponiveis[mes][dia] = [];
+                            }
+                            horariosDisponiveis[mes][dia].push(horario);
                         }
-                        if (!horariosDisponiveis[mes][dia]) {
-                            horariosDisponiveis[mes][dia] = [];
-                        }
-                        horariosDisponiveis[mes][dia].push(horario);
                     }
-                }
-
-                console.log("Arquivo TXT carregado com sucesso.", horariosDisponiveis);
-            } catch (error) {
-                console.error("Erro ao carregar o arquivo TXT:", error);
-            }
+                })
+                .catch(error => console.error("Erro ao buscar o Excel:", error));
         }
 
-        // Chama a função para carregar o TXT automaticamente ao abrir a página
-        window.onload = loadTXTFile;
+        fetchAndProcessExcel(); // Chamada automática ao carregar a página
 
         function generateCalendar() {
             const month = parseInt(document.getElementById('month').value);
@@ -161,7 +162,7 @@
                 let cell = document.createElement("td");
                 cell.innerHTML = `<strong>${dayCounter}</strong>`;
 
-                // Adiciona os horários do TXT, se existirem
+                // Adiciona os horários do Excel, se existirem
                 if (horariosDisponiveis[month] && horariosDisponiveis[month][dayCounter]) {
                     cell.innerHTML += `<div class="horarios">${horariosDisponiveis[month][dayCounter].join('<br>')}</div>`;
                 }
@@ -179,7 +180,7 @@
                     let cell = document.createElement("td");
                     cell.innerHTML = `<strong>${dayCounter}</strong>`;
 
-                    // Adiciona os horários do TXT
+                    // Adiciona os horários do Excel
                     if (horariosDisponiveis[month] && horariosDisponiveis[month][dayCounter]) {
                         cell.innerHTML += `<div class="horarios">${horariosDisponiveis[month][dayCounter].join('<br>')}</div>`;
                     }
