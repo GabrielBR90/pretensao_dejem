@@ -92,7 +92,20 @@
 
     <script>
         // URL do arquivo Excel hospedado no GitHub
-        const EXCEL_URL = "https://raw.githubusercontent.com/GabrielBR90/pretensao_dejem/main/horarios.xlsx"; 
+        const JSON_URL = "https://raw.githubusercontent.com/GabrielBR90/pretensao_dejem/main/horarios.json";
+
+async function fetchHorarios() {
+    try {
+        const response = await fetch(JSON_URL);
+        horariosDisponiveis = await response.json();
+        console.log("Horários carregados:", horariosDisponiveis);
+    } catch (error) {
+        console.error("Erro ao carregar JSON:", error);
+    }
+}
+
+fetchHorarios();
+; 
 
         // Populando o seletor de anos dinamicamente
         const yearSelect = document.getElementById('year');
